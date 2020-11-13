@@ -4,11 +4,14 @@ This repository will contain Machine Learning and Deep Neural Networks material 
 
 This repository will be organized in
 
+- Mathematics
 - Machine Learning
 - Neural Networks
 - Natural Language Processing
 
-In Machine Learning, you will find various projects and theory behind Machine Learning algorithms and Data Analysis in order to tackle Data Science problems. The idea is to give an overview of working with data and how to build predictive models and find a way to organize them using supervised and unsupervised learning, respectively. We will also look into the visualization algorithms and clustering algorithms that are commonly found in unsupervised learning solutions. It is organized in Practical and Theoretical approach.
+In Math, you will find the topics in math that you will stumble on during Deep Learning research, such as Linear Algebra, Probability Theory and Numerical Computations.
+
+In Machine Learning, you will find various projects and theory behind Machine Learning algorithms and Data Analysis in order to tackle Data Science problems. The idea is to give an overview of working with data and how to build predictive models and find a way to organize them using supervised and unsupervised learning, respectively. We will also look into the visualization algorithms and clustering algorithms that are commonly found in unsupervised learning solutions.
 
 In Neural Networks, we will build a foundation on how to build Neural Networks, how to optimize for training them, what is the regularization for Deep Learning and the practical methodology behind them. We will tackle Deep Feedforward Networks and Sequence Modeling such as Recurrent and Recursive Neural Nets and see its applications on some problems. We will also view the Deep Convolutional Neural Networks in order to see how we can process images.
 
